@@ -1,0 +1,11 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "this is for practise",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Gokul",
+  "license": "ISC"
+}
